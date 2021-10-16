@@ -1,0 +1,2 @@
+class NoodleRestaurant < ApplicationRecord
+end
