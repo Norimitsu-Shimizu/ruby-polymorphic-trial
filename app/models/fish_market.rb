@@ -1,0 +1,2 @@
+class FishMarket < ApplicationRecord
+end
