@@ -1,0 +1,2 @@
+class MarketTrade < ApplicationRecord
+end
