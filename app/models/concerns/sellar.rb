@@ -1,3 +1,7 @@
+#
+# sellar用のポリモーフィックアソシエーションを定義
+# このモジュールをincludeすることによりsellarを使用できる
+#
 module Sellar
   extend ActiveSupport::Concern
 
