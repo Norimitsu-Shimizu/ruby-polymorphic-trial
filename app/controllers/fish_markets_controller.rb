@@ -1,0 +1,2 @@
+class FishMarketsController < ApplicationController
+end
